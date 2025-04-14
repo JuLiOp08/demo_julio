@@ -5,3 +5,6 @@ def primos(a, b):
 
 def suma(a, b):
     print(a+b)
+
+def resta(a,b):
+    print(a-b)
